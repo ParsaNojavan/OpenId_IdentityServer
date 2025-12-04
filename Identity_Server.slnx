@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Api/">
+    <Project Path="HavaApi/HavaApi.csproj" Id="4f36dfe3-9c97-4a5e-a6e4-579b5bfd6d24" />
+  </Folder>
+  <Folder Name="/Client/">
+    <Project Path="ApiClient/ApiClient.csproj" Id="58774d31-5c13-4575-a953-2180f3ef5a5a" />
+    <Project Path="ParsaClientMVC/ParsaClientMVC.csproj" Id="76eb7d62-7fb3-47a6-8a25-ed41e3a97610" />
+  </Folder>
+  <Project Path="Identity_Server/Identity_Server.csproj" />
+</Solution>
